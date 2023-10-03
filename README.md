@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+This is Soliman,
+
+- 🌱 I’m currently learning Computer Science and will apply all the learning courses here ^_^
+
 <!--
 **edmerdash01/edmerdash01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
